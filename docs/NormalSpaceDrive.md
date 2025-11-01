@@ -35,7 +35,11 @@ Symbols:
   </g>
 </svg>
 
-Advanced Drives
----------------
+Design Procedure
+----------------
 
-A ship built with a technologically [advanced drive system](AdvancedDrive) is still limited by thrust rating, but is more maneuverable.
+__Mass:__ A ship's normal drive is part of the 50% reserved for essential systems, so it does not cost any additional mass like other systems do. _Experimental:_ A normal drive is limited to a maximum thrust rating of __8__.
+
+__Points Cost:__ Every one unit of thrust costs a number of points equal to the ship's total mass.
+
+__Experimental:__ Since a ship's normal drive takes two threshold failures or needle strikes to be fully disabled, you can---if desired---record this as _two_ separate drive symbols on the ship diagram, each with _half_ the total thrust rating. The total thrust available per turn is equal to the total of each remaining operational drive symbol, and they are still targeted as a single system by threshold checks and needle attacks.
