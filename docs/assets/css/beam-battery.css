@@ -1,5 +1,5 @@
 .beam-battery {
-  background-image: url('beam-all-arc.svg');
+  background-image: url('battery.svg');
   color: tan;
   display: inline-block;
   height: 3em;
@@ -7,61 +7,43 @@
   width: 3em;
 }
 
-.beam-battery--1-arc {
-  background-image: url('beam-1-arc.svg');
+.beam-battery--class-1 {
+  background-image: url('battery-class-1-all-arc.svg');
 }
 
-.beam-battery--3-arc {
-  background-image: url('beam-3-arc.svg');
+.beam-battery--class-2 {
+  background-image: url('battery-class-2-fp-fwd-fs.svg');
 }
 
-.beam-battery__class {
-  font-family: sans-serif;
-  font-size: 1.5em;
-  font-weight: bold;
-  line-height: 2em;
+.beam-battery--class-2-port {
+  background-image: url('battery-class-2-ap-fp-fwd.svg');
 }
 
-.beam-battery__class.-advanced {
+.beam-battery--class-2-starboard {
+  background-image: url('battery-class-2-fwd-fs-as.svg');
+}
+
+.beam-battery--class-3 {
+  background-image: url('battery-class-3-fwd.svg');
+}
+
+.advanced-battery {
   background-image: url('advanced-battery.svg');
-  font-family: sans-serif;
-  font-size: 1.0em;
-  font-weight: bold;
-  line-height: 3em;
+  color: tan;
+  display: inline-block;
+  height: 3em;
+  text-align: center;
+  width: 3em;
 }
 
-.beam-battery.-fs {
-  background-image: url('battery-b-fs.svg');
+.advanced-battery--class-1 {
+  background-image: url('advanced-battery-class-1.svg');
 }
 
-.beam-battery.-as {
-  rotate: 120deg;
+.advanced-battery--class-2 {
+  background-image: url('advanced-battery-class-2.svg');
 }
 
-.beam-battery.-aft {
-  rotate: 180deg;
-}
-
-.beam-battery.-ap {
-  rotate: 240deg;
-}
-
-.beam-battery.-fp {
-  rotate: 300deg;
-}
-
-.beam-battery.-as .beam-battery__class {
-  rotate: -120deg;
-}
-
-.beam-battery.-aft .beam-battery__class {
-  rotate: -180deg;
-}
-
-.beam-battery.-ap .beam-battery__class {
-  rotate: -240deg;
-}
-
-.beam-battery.-fp .beam-battery__class {
-  rotate: -300deg;
+.advanced-battery--class-3 {
+  background-image: url('advanced-battery-class-3.svg');
 }

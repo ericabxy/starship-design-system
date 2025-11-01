@@ -31,31 +31,12 @@ Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
 Symbols:
 
 <div class='ship-diagram'>
-    <div class='beam-battery beam-battery--3-arc -fs'>
-      <div class='beam-battery__class'>3</div>
+    <div class='beam-battery beam-battery--class-2-starboard'>
     </div>
-    <div class='beam-battery beam-battery--1-arc'>
-      <div class='beam-battery__class'>2</div>
+    <div class='beam-battery beam-battery--class-3'>
     </div>
-    <div class='beam-battery'>
-      <div class='beam-battery__class'>1</div>
+    <div class='beam-battery beam-battery--class-1'>
     </div>
-</div>
-
-<div class='ship-diagram'>
-  <div>
-    <div class='beam-battery beam-battery--1-arc'>
-      <div class='beam-battery__class'>3</div>
-    </div>
-  </div>
-  <div>
-    <div class='beam-battery beam-battery--3-arc -fp'>
-      <div class='beam-battery__class'>2</div>
-    </div>
-    <div class='beam-battery beam-battery--3-arc -fs'>
-      <div class='beam-battery__class'>2</div>
-    </div>
-  </div>
 </div>
 
 Class-1 Point Defense Mode

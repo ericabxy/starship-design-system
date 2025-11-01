@@ -6,14 +6,11 @@ Technologically advanced batteries use a cutting-edge beam technology that's eff
 Symbols:
 
 <div class='ship-diagram'>
-    <div class='beam-battery beam-battery--3-arc -fs'>
-      <div class='beam-battery__class -advanced'>A3</div>
+    <div class='advanced-battery advanced-battery--class-2'>
     </div>
-    <div class='beam-battery beam-battery--1-arc'>
-      <div class='beam-battery__class -advanced'>A2</div>
+    <div class='advanced-battery advanced-battery--class-3'>
     </div>
-    <div class='beam-battery'>
-      <div class='beam-battery__class -advanced'>A1</div>
+    <div class='advanced-battery advanced-battery--class-1'>
     </div>
 </div>
 
