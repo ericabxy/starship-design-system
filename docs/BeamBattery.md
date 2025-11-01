@@ -78,18 +78,22 @@ At a range of 9&Prime;, a Class-2 battery can target and knock out a ship's syst
 | 4-5          | One damage point
 | 6            | One damage point AND target system knocked-out
 
-Design Costs
-------------
-
-| Type of System  | Mass | Cost
-| --------------- | :--: | ----
-| Class 1 Battery | 1    | 2 points + 1/arc
-| Class 2 Battery | 2    | 3 points + 2/arc
-| Class 3 Battery | 3    | 4 points + 3/arc
-| Class 4 Battery | 5    | 5 points + 4/arc
-| Class 5 Battery | 8    | 6 points + 5/arc
-
 Penetrating Damage
 ------------------
 
-Ships using the old design rules tend to have far fewer hull boxes, so standard batteries do not re-roll sixes to deal extra damage in this game.
+Ships using these design rules tend to have far fewer hull boxes than the revised rules (see Fleet Book 1), so standard batteries do not re-roll sixes to deal extra damage in this game.
+
+Design Procedure
+----------------
+
+| Battery       | Bearing      | Mass     | Points Cost
+| -------       | -------      | ----     | -----------
+| __*Class-1*__ | __*6-arcs*__ | __*1*__  | __*3*__
+| __*Class-2*__ | __*3-arcs*__ | __*2*__  | __*6*__
+| Class-2       | 6-arcs       | 3        | 9
+| __*Class-3*__ | __*1-arc*__  | __*3*__  | __*9*__
+| Class-3       | 2-arc        | 4        | 12
+| Class-3       | 3-arc        | 5        | 15
+| __*Class-4*__ | __*1-arc*__  | __*5*__  | __*15*__---
+| Class-4       | 2-arc        | 8        | 24
+| __*Class-5*__ | __*1-arc*__  | __*8*__  | __*24*__
