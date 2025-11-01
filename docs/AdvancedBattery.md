@@ -3,30 +3,52 @@ Advanced Battery
 
 Technologically advanced batteries use a cutting-edge beam technology that's effective at longer ranges and do more damage. The high-powered generators and focusing systems, however, are more expensive to produce and take up more mass than standard batteries.
 
+Symbols:
+
+<div class='ship-diagram'>
+    <div class='beam-battery beam-battery--3-arc -fs'>
+      <div class='beam-battery__class -advanced'>A3</div>
+    </div>
+    <div class='beam-battery beam-battery--1-arc'>
+      <div class='beam-battery__class -advanced'>A2</div>
+    </div>
+    <div class='beam-battery'>
+      <div class='beam-battery__class -advanced'>A1</div>
+    </div>
+</div>
+
 ### Range and Hit Rolls
 
-| Range  | Class 1  | Class 2  | Class 3
-| ------ | -------- | -------- | -------
-| 0-18″  | Roll 1D6 | Roll 2D6 | Roll 3D6
-| 18-36″ | ---      | Roll 1D6 | Roll 2D6
-| 36-54″ | ---      | ---      | Roll 1D6
+| Range  | Class 1  | Class 2  | Class 3  | Class AA
+| ------ | -------- | -------- | -------  | --------
+| 0-18″  | Roll 1D6 | Roll 2D6 | Roll 3D6 | Roll 4d6
+| 18-36″ | ---      | Roll 1D6 | Roll 2D6 | Roll 3d6
+| 36-54″ | ---      | ---      | Roll 1D6 | Roll 2d6
 
-### Damage Rolls
+### Damage
 
-Advanced batteries also deal more damage per hit scored. The roll results read as hits or misses according to [beam dice](BeamDice) rules, and each hit scores a random amount of damage determined by rolling another six-sided die.
+| Hit Roll | Unscreened | One Screen | Two Screens
+| :------: | ---------- | ---------- | -----------
+| 1-3      | ---        | ---        | ---
+| 4        | One hit    | ---        | ---
+| 5        | One hit    | One hit    | One hit
+| 6        | Two hits   | Two hits   | One hit
 
-| For every...      | Unscreened | Screen Level 1 | Screen Level 2
-| ----------------- | ---------- | -------------- | --------------
-| 1, 2, or 3 rolled | ---        | ---            | ---
-| 4 rolled          | 1D6 damage | ---            | ---
-| 5 rolled          | 1D6 damage | 1D6 damage     | 1D6 damage
-| 6 rolled          | 2D6 damage | 2D6 damage     | 1D6 damage
+For _each hit_ scored, roll another D6 and consult the following table to determine the damage dealt.
 
-### Point Defense
+| Damage roll
+| ----------- |
+| 1-2         | **One** damage point
+| 3-4         | **Two** damage points
+| 5-6         | **Three** damage points
 
-Unlike [standard batteries](BeamBattery), advanced batteries cannot be fired in point-defense mode.
+Point Defense Mode
+------------------
 
-### Design Costs
+Much like [standard batteries](BeamBattery), advanced batteries can operate in point defense mode. Any
+
+Design Costs
+------------
 
 The cutting-edge technology used in advanced beam batteries cost more in points and take up more mass on a ship.
 

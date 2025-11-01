@@ -1,0 +1,67 @@
+.beam-battery {
+  background-image: url('beam-all-arc.svg');
+  color: tan;
+  display: inline-block;
+  height: 3em;
+  text-align: center;
+  width: 3em;
+}
+
+.beam-battery--1-arc {
+  background-image: url('beam-1-arc.svg');
+}
+
+.beam-battery--3-arc {
+  background-image: url('beam-3-arc.svg');
+}
+
+.beam-battery__class {
+  font-family: sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 2em;
+}
+
+.beam-battery__class.-advanced {
+  background-image: url('advanced-battery.svg');
+  font-family: sans-serif;
+  font-size: 1.0em;
+  font-weight: bold;
+  line-height: 3em;
+}
+
+.beam-battery.-fs {
+  background-image: url('battery-b-fs.svg');
+}
+
+.beam-battery.-as {
+  rotate: 120deg;
+}
+
+.beam-battery.-aft {
+  rotate: 180deg;
+}
+
+.beam-battery.-ap {
+  rotate: 240deg;
+}
+
+.beam-battery.-fp {
+  rotate: 300deg;
+}
+
+.beam-battery.-as .beam-battery__class {
+  rotate: -120deg;
+}
+
+.beam-battery.-aft .beam-battery__class {
+  rotate: -180deg;
+}
+
+.beam-battery.-ap .beam-battery__class {
+  rotate: -240deg;
+}
+
+.beam-battery.-fp .beam-battery__class {
+  rotate: -300deg;
+}

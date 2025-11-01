@@ -25,6 +25,25 @@ The missile is heavily armored and is treated as if it has Grade--2 defensive sc
 | 1-4          | No effect
 | 5-6          | Missile destroyed
 
+Design Costs
+------------
+
+### Missile Rack
+
+A missile rack contains 1 flight of missiles and once it has launched, must be crossed off the SSD for the rest of the battle.
+
+__Mass:__ 2
+
+__Cost:__ 6
+
+### Missile Launcher
+
+A missile launcher serves to fire multiple flights of missiles, one flight per turn. The supply of missiles is stored in an internal magazine.
+
+__Mass:__ 2 and an additional +1 for every missile in the magazine.
+
+__Cost:__ 6 and an additional +3 for every missile in the magazine.
+
 Probes
 ------
 

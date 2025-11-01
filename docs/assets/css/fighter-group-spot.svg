@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
+  <g fill='none' stroke='Tan' stroke-width='5'>
+    <path d='M 50 2 L 78 98 H 22 Z' />
+    <circle cx='50' cy='75' r='9' fill='Tan' />
+  </g>
+</svg>

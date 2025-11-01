@@ -7,13 +7,16 @@ Standard Systems
 ----------------
 
 * [Beam Battery](BeamBattery)
+* [Cargo Space](CargoSpace)
 * [Damage Control](DamageControl)
 * [Screen Generator](ScreenGenerator)
-* [Fire Control (FireCon) System](FireControlSystem)
 * [Faster-Than-Light (FTL) System](FasterThanLightDrive)
+* [Fighter Group](FighterGroup)
+* [Fire Control (FireCon) System](FireControlSystem)
 * [Missile](MissileCraft)
 * [Needle System](NeedleSystem)
 * [Normal Space Drive](NormalSpaceDrive)
+* [Point Defense System](PointDefenseSystem)
 * [Submunitions](Submunitions)
 * [Torpedo System](TorpedoSystem)
 
@@ -22,7 +25,7 @@ Advanced Systems
 
 * [Ablative Armor](AblativeArmor)
 * [Advanced Hulls](AdvancedHulls)
-* [Advanced Drives](AdvancedDrives)
+* [Advanced Drives](AdvancedDrive)
 * [Advanced FTL](AdvancedFtl)
 * [Advanced Screens](AdvancedScreens)
 * [Advanced Batteries](AdvancedBattery)

@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
+  <g fill='Tan' stroke='Tan' stroke-width='5'>
+    <path d='M 20 50 A 30 30 0 0 1 80 50 Z' />
+    <line x1='50' y1='20' x2='50' y2='0' />
+    <rect x='40' y='50' width='22' height='47' fill='none' />
+  </g>
+</svg>

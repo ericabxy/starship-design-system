@@ -20,7 +20,7 @@ Damage is dealt according to the results of the dice. The target ship must cross
 | Every 4 or 5 rolled     | One damage point
 | Every 6 rolled          | Two damage points
 
-Defensive screens reduce the damage from beam batteries.
+Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
 
 | Results                    | Screen Level 1    | Screen Level 2
 | -------------------------- | ----------------- | --------------
@@ -68,14 +68,14 @@ Class 1 beam batteries can be fired in defense against approaching small craft a
 Class-2 Needle Mode (experimental)
 ----------------------------------
 
-At a range of 6&Prime;, a Class-2 battery can target and knock out a ship's systems. This requires the dedicated use of a [FireCon](FireControlSystem), and to determine the effect roll *one D6*.
+At a range of 9&Prime;, a Class-2 battery can target and knock out a ship's systems. This requires the dedicated use of a [FireCon](FireControlSystem), and to determine the effect roll *one D6*.
 
 **Needle Mode Effects:**
 
 | Roll results | Effect
 | ------------ | ------
-| 1-4          | No effect
-| 5            | One damage point
+| 1-3          | No effect
+| 4-5          | One damage point
 | 6            | One damage point AND target system knocked-out
 
 Design Costs

@@ -2,6 +2,7 @@
 ---
 
 @import 'jekyll-theme-primer';
+@import 'beam-battery.css';
 
 html {
   min-height: 100%;
@@ -71,9 +72,73 @@ th, td {
   src: url('FTSymbol.ttf');
 }
 
+.advanced-drive {
+  background-image: url('advanced-drive.svg');
+  display: inline-block;
+  height: 3em;
+  margin: .2em;
+  width: 3em;
+}
+
+.advanced-drive--thrust-2 {
+  background-image: url('advanced-drive-thrust-2.svg');
+}
+
+.advanced-drive--thrust-4 {
+  background-image: url('advanced-drive-thrust-4.svg');
+}
+
+.advanced-drive--thrust-6 {
+  background-image: url('advanced-drive-thrust-6.svg');
+}
+
+.advanced-drive--thrust-8 {
+  background-image: url('advanced-drive-thrust-8.svg');
+}
+
+.normal-space-drive {
+  background-image: url('normal-space-drive.svg');
+  display: inline-block;
+  height: 3em;
+  margin: .2em;
+  width: 3em;
+}
+
+.normal-space-drive--thrust-2 {
+  background-image: url('normal-space-drive-thrust-2.svg');
+}
+
+.normal-space-drive--thrust-4 {
+  background-image: url('normal-space-drive-thrust-4.svg');
+}
+
+.normal-space-drive--thrust-6 {
+  background-image: url('normal-space-drive-thrust-6.svg');
+}
+
+.normal-space-drive--thrust-8 {
+  background-image: url('normal-space-drive-thrust-8.svg');
+}
+
+.fighter-group {
+  background-image: url('fighter-group.svg');
+  display: inline-block;
+  height: 3em;
+  text-align: center;
+  width: 3em;
+}
+
+.fighter-group__type {
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 4.5em;
+}
+
 .ship-diagram {
   border: 2px solid tan;
   border-radius: 5px;
+  color: Tan;
   display: inline-block;
 }
 
@@ -83,70 +148,6 @@ th, td {
   display: inline-block;
   width: 3em;
   height: 3em;
-}
-
-.beam-battery {
-  background-image: url('beam-all-arc.svg');
-  color: tan;
-  display: inline-block;
-  height: 3em;
-  text-align: center;
-  width: 3em;
-}
-
-.beam-battery--1-arc {
-  background-image: url('beam-1-arc.svg');
-}
-
-.beam-battery--3-arc {
-  background-image: url('beam-3-arc.svg');
-}
-
-.beam-battery__class {
-  font-family: sans-serif;
-  font-size: 1.5em;
-  font-weight: bold;
-  line-height: 2em;
-}
-
-.beam-battery.-fs {
-  rotate: 60deg;
-}
-
-.beam-battery.-as {
-  rotate: 120deg;
-}
-
-.beam-battery.-aft {
-  rotate: 180deg;
-}
-
-.beam-battery.-ap {
-  rotate: 240deg;
-}
-
-.beam-battery.-fp {
-  rotate: 300deg;
-}
-
-.beam-battery.-fs .beam-battery__class {
-  rotate: -60deg;
-}
-
-.beam-battery.-as .beam-battery__class {
-  rotate: -120deg;
-}
-
-.beam-battery.-aft .beam-battery__class {
-  rotate: -180deg;
-}
-
-.beam-battery.-ap .beam-battery__class {
-  rotate: -240deg;
-}
-
-.beam-battery.-fp .beam-battery__class {
-  rotate: -300deg;
 }
 
 .fire-control-system {

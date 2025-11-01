@@ -38,4 +38,4 @@ Symbols:
 Advanced Drives
 ---------------
 
-A ship built with a technologically [advanced drive system](AdvancedDrives) is still limited by thrust rating, but is more maneuverable.
+A ship built with a technologically [advanced drive system](AdvancedDrive) is still limited by thrust rating, but is more maneuverable.

@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
+  <g fill='none' stroke='Tan' stroke-width='5'>
+    <path d='M 20 30 L 50 15 L 80 30 V 70 L 50 85 L 20 70 Z' />
+    <path d='M 20 50 C 30 30, 40 30, 50 50 S 70 70, 80 50' />
+  </g>
+</svg>

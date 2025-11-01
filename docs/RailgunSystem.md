@@ -21,7 +21,7 @@ For each railgun projectile that hits, damage is dealt equal to the class of the
 |       3        | three points | six points
 |       4        | four points  | eight points
 
-* Standard defensive screens do not affect damage dealt by railguns
+\* Standard defensive screens do not affect damage dealt by railguns
 
 Advanced Screens
 ----------------
