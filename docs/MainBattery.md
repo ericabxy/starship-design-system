@@ -1,7 +1,7 @@
 Main Battery
 ------------
 
-This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can sometimes be partially countered by expensive defense technology that can absorb, disrupt, or deflect incoming projectiles/beams.
+This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can sometimes be partially countered by expensive defense technology that can absorb, disrupt, or deflect incoming missiles/beams.
 
 Symbols:
 
@@ -54,7 +54,7 @@ Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
 Class-1 Point Defense Mode
 --------------------------
 
-Class 1 beam batteries can be fired in defense against approaching small craft and missiles. This requires the use of one [fire control](FireControlSystem) system, but this one can be shared among any number of Class 1 batteries being used in point defense mode.
+Class-1 beam batteries can be fired in defense against approaching small craft and missiles. This requires the use of one [fire control](FireControlSystem) system, but this one can be shared among any number of Class 1 batteries being used in point defense mode.
 
 1D6 is rolled as normal, but only one hit is scored on a roll of **5** or **6** (as if being affected by level-2 screens).
 
@@ -74,7 +74,7 @@ At a range of 9&Prime;, a Class-2 battery can target and knock out a ship's syst
 Penetrating Damage
 ------------------
 
-Ships using these design rules tend to have far fewer hull boxes than the revised rules (see Fleet Book 1), so standard batteries do not re-roll sixes to deal extra damage in this game.
+Ships using these design rules tend to have far fewer hull boxes than the revised rules (see Fleet Book 1), so standard batteries do **not** re-roll sixes to deal extra damage in this game.
 
 Design Procedure
 ----------------

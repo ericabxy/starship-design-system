@@ -7,7 +7,7 @@ The term "Beam Dice" (BD) refers six-sided dice rolled and read according to the
 | Every 4 or 5 rolled     | One hit
 | Every 6 rolled          | Two hits
 
-Using the same probability chart, other systems can do something else with "hits" for variety. For example [advanced battery](AdvancedBattery) systems score a number of hits, but deal **1D6** damage points per hit. An EMP gun might deal no damage points, but induce threshhold damage at a level determined by the number of hits scored.
+Using the same probability chart, other systems can do something else with "hits" for variety. For example [megabattery](MegaBattery) systems score a number of hits, but deal **1D6** damage points per hit. An EMP gun might deal no damage points, but induce threshhold damage at a level determined by the number of hits scored.
 
 Degradation
 -----------
