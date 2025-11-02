@@ -30,7 +30,8 @@ Advanced Systems
 * [Advanced FTL](AdvancedFtl)
 * [Advanced Screen](AdvancedScreen)
 * [Advanced Battery](AdvancedBattery)
-* [Railgun](RailgunSystem)
+* [Mega Battery](MegaBattery)
+* [Railgun System](RailgunSystem)
 
 Links
 -----

@@ -1,8 +1,6 @@
 Advanced Battery
 ----------------
 
-Technologically advanced batteries use a cutting-edge beam technology that's effective at longer ranges and do more damage. The high-powered generators and focusing systems, however, are more expensive to produce and take up more mass than standard batteries.
-
 Symbols:
 
 <div class='ship-diagram'>
@@ -14,22 +12,26 @@ Symbols:
     </div>
 </div>
 
-### Range and Hit Rolls
+Rolling to Hit
+--------------
 
-| Range  | Class 1  | Class 2  | Class 3  | Class AA
-| ------ | -------- | -------- | -------  | --------
-| 0-18″  | Roll 1D6 | Roll 2D6 | Roll 3D6 | Roll 4d6
-| 18-36″ | ---      | Roll 1D6 | Roll 2D6 | Roll 3d6
-| 36-54″ | ---      | ---      | Roll 1D6 | Roll 2d6
+| Range      | Class 1  | Class 2  | Class 3
+| -----      | -------  | -------  | -------
+| **0-12″**  | Roll 1D6 | Roll 2D6 | Roll 3D6
+| **12-24″** | ---      | Roll 1D6 | Roll 2D6
+| **24-36″** | ---      | ---      | Roll 1D6
 
-### Damage
+Rolling for Damage
+------------------
 
-| Hit Roll | Unscreened | One Screen | Two Screens
-| :------: | ---------- | ---------- | -----------
-| 1-3      | ---        | ---        | ---
-| 4        | One hit    | ---        | ---
-| 5        | One hit    | One hit    | One hit
-| 6        | Two hits   | Two hits   | One hit
+First determine the number of hits scored:
+
+| Hit Roll | Unscreened   | One Screen   | Two Screens
+| :------: | ----------   | ----------   | -----------
+| 1-3      | ---          | ---          | ---
+| 4        | **One** hit  | ---          | ---
+| 5        | **One** hit  | **One** hit  | **One** hit
+| 6        | **Two** hits | **Two** hits | **One** hit
 
 For _each hit_ scored, roll another D6 and consult the following table to determine the damage dealt.
 
@@ -42,15 +44,12 @@ For _each hit_ scored, roll another D6 and consult the following table to determ
 Point Defense Mode
 ------------------
 
-Much like [standard batteries](BeamBattery), advanced batteries can operate in point defense mode. Any
+Much like [standard batteries](BeamBattery), advanced batteries can operate in point defense mode.
 
-Design Costs
-------------
+Needle Strike Mode
+------------------
 
-The cutting-edge technology used in advanced beam batteries cost more in points and take up more mass on a ship.
+Design Procedure
+----------------
 
-| Type of System  | Mass | Cost
-| --------------- | :--: | ----
-| Class 1 Battery | 2    | 3 points + 2/arc
-| Class 2 Battery | 5    | 5 points + 4/arc
-| Class 3 Battery | 8    | 6 points + 5/arc
+

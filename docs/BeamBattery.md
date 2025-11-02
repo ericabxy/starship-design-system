@@ -19,12 +19,13 @@ Rolling To Hit
 
 To determine the effect of firing on a target, a number of dice are rolled depending on range. Class 3 batteries have a range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
-| Range      | Class 1 | Class 2 | Class 3 | Class 4
-| ---------- | ------- | ------- | ------- | -------
-| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D
-| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D
-| **24-36″** | ---     | ---     | Roll 1D | Roll 2D
-| **36-48″** | ---     | ---     | ---     | Roll 1D
+| Range      | Class 1 | Class 2 | Class 3 | Class 4 | Class 5
+| ---------- | ------- | ------- | ------- | ------- | -------
+| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D | Roll 5D
+| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D | Roll 4D
+| **24-36″** | ---     | ---     | Roll 1D | Roll 2D | Roll 3D
+| **36-48″** | ---     | ---     | ---     | Roll 1D | Roll 2D
+| **48-60″** | ---     | ---     | ---     | ---     | Roll 1D
 
 Dealing Damage
 --------------
