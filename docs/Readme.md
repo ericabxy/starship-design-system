@@ -14,6 +14,7 @@ Standard Systems
 * [Fighter Group](FighterGroup)
 * [Fire Control (FireCon) System](FireControlSystem)
 * [Hangar Bay](HangarBay)
+* [Hull Integrity](HullIntegrity)
 * [Missile](MissileCraft)
 * [Needle System](NeedleSystem)
 * [Normal Space Drive](NormalSpaceDrive)

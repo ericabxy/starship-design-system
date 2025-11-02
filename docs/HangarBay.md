@@ -1,7 +1,9 @@
 Hangar Bay
 ----------
 
-Storage and launch facilities for small craft and interface craft. Space for craft is provided at a 1-to-1 basis e.g. two MASS 4 dropships are accommodated by a single MASS 8 hangar bay. Spare space can be taken up by appropriately-sized small craft, even fighters, e.g. a MASS 6 bay could hold a MASS 3 lander and 3 fighters from a half-size [fighter group](FighterGroup).
+Ships are assumed to have minor intraship facilities included in the 50% of mass reserved for essential systems. This includes anything that has little relevance in combat; for instance personal shuttles and spacesuits do not need to be costed or tracked under the design rules.
+
+Hangar bays for personnel transports, troop carriers, and other major craft on the other hand DO need to be accounted for during ship design and gameplay operations just like the rules for [fighter craft](FighterGroup). Space for craft is provided on a 1-to-1 basis e.g. two MASS 4 dropships can be accommodated by a single MASS 8 hangar bay. Spare space can be taken up by appropriately-sized small craft, even fighters, e.g. a MASS 6 bay could hold a MASS 3 lander and 3 fighters from a half-size fighter group.
 
 __Minimum size:__ mass 6.
 
