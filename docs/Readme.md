@@ -13,6 +13,7 @@ Standard Systems
 * [Faster-Than-Light (FTL) System](FasterThanLightDrive)
 * [Fighter Group](FighterGroup)
 * [Fire Control (FireCon) System](FireControlSystem)
+* [Hangar Bay](HangarBay)
 * [Missile](MissileCraft)
 * [Needle System](NeedleSystem)
 * [Normal Space Drive](NormalSpaceDrive)
