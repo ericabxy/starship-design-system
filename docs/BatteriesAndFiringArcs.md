@@ -1,0 +1,10 @@
+Batteries and Firing Arcs
+-------------------------
+
+Weapons systems (and other systems) in these rules do not necessarily map one-to-one with literal devices mounted in the ship's hull. The "battery" is one way of emphasizing this, as well as references to "system" or "drive system" rather than a single or multiple engines, exhaust ports, turrets, cannons, etc. A good way to illustrate this point is to model the U.S.S. Enterprise-A of _Star Trek_ fame.
+
+The ship featured in the original films sports six dual phaser banks in the primary hull totaling twelve individual turret weapons. Already it is obvious that each "bank" is a single weapon system with multiple emitters, but even six batteries would be too much to mount on a hull of reasonable mass in _Full Thrust_. Since these rules operate primarily in two dimensions, its reasonable to consider the _dorsal_ and _ventral_ phaser banks as the same overall battery simply arranged to fire at targets either above or below the ship.
+
+At this point we have reduced the loadout to three beam weapons, but the port-forward-starboard configuration suggests this entire array of phasers is a weapon system designed to [fire into a wide arc](RangeAndBearing). Each phaser bank could be seen as a different targeting arc of this weapon system. The zoomed-out, low-resolution, semi-abstract nature of _Full Thrust_ ship design system requires this kind of interpretation of ship systems.
+
+In abstract terms, the Enterprise-A is designed with two main weapon systems; a powerful beam weapon and a secondary torpedo system. This allows the phaser beams to be interpreted as loosely as needed in _Full Thrust_ terms; perhaps two Class-3 or Class-2 [beam batteries](MainBattery) with overlapping arc coverage, or even a single Class-2 or Class-1 if it needs to be packed into a smaller hull. A single [point defense system](PointDefenseSystem) can be included to represent those same phasers' defensive capabilities. Likely the ship could pack at most a single [torpedo system](TorpedoSystem) to represent the two launchers---again treating two separate weapons as a single system for practicality.

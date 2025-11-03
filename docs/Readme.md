@@ -11,10 +11,6 @@ The ship design system centers around the concept of a generic MASS unit allowin
 
 The game is played on a flat surface a few feet to a side and ships can move and interact with each other based on a standard unit of measurement (typically inches). The outcomes of various decisions (especialy firing weapons if in a combat scenario) are determined by rolling and reading six-sided dice (or "D6").
 
-* [Beam Dice](BeamDice)
-* [Projectile Dice](ProjectileDice)
-* [Range and Bearing](RangeAndBearing)
-
 Links
 -----
 

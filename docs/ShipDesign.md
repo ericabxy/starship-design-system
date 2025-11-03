@@ -1,7 +1,7 @@
 Ship Design Rules
 -----------------
 
-To start designing a ship, pick a hull size between 2 and 100. This determines the ship's overall mass and space available for fitting systems. The table below is a rough guide to the general size of certain ships. For example, lets design a ["survey cruiser"](CuriousClassSurveyCruiser) of mass 48.
+To start designing a ship, pick a [hull size](SizeWeightAndMass) between 2 and 100. This determines the ship's overall mass and space available for fitting systems. The table below is a rough guide to the general size of certain ships. For example, lets design a ["survey cruiser"](CuriousClassSurveyCruiser) of mass 48.
 
 | Ship Type | Hull Size
 | --------- | ---------
