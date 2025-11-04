@@ -1,9 +1,17 @@
 Hull Integrity
 --------------
 
-The number of hull boxes represents a ship's hull integrity i.e. the amount of damage it can take before essential systems are compromised. Military ships employ the latest in materials, compartmentalisation, redundancy, etc. resulting in "superior"-strength hulls giving them the maximum number of hull boxes possible (50% of overall ship mass). "Merchant" and other civilian ships have access to less military-grade technology and materials resulting in "average"-strength hulls; 25% of mass in hull boxes is the typical amount of damage points a non-military ship can take.
+After choosing a hull size its time to cost it according to how effective it is against damaging effects like collisions, space "terrain" effects, and combat. The base cost is 1 point per MASS of the hull (mass is equal to hull size).
 
-Advanced Hull Technology
-------------------------
+The hull costs additional points based on how many hull boxes it will have. The number of hull boxes represents a ship's structural integrity i.e. the amount of damage it can take before essential systems are compromised. The ship must have at least 25% of its overall mass in hull boxes, and each hull box costs an additional 2 points. The maximum amount of hull boxes---representing military grade materials, compartmentalization, redundancy, etc.---is 50% of overall mass. For example, a 32 MASS heavy cruiser hull would have 16 hull boxes and cost 64 points; 1 &times; the mass of the hull for 32 points, and 2 &times; the number of hull boxes for another 32 points.
 
-Fewer hull rows == more damage taken before reaching a threshold.
+Advanced Hull Integrity
+-----------------------
+
+At an increased cost hulls can be reinforced or insulated in such a way that more damage can be taken before essential systems are affected. This is more common with smaller ships like escorts and cruisers. Hulls with advanced integrity arrange their hull boxes in fewer rows than standard.
+
+| Hull Boxes | Cost
+| ---------- | ----
+| 2 rows     | 4 points per box
+| 3 rows     | 3 points per box
+| 4 rows     | 2 points per box
