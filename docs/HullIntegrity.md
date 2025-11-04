@@ -15,3 +15,8 @@ At an increased cost hulls can be reinforced or insulated in such a way that mor
 | 2 rows     | 4 points per box
 | 3 rows     | 3 points per box
 | 4 rows     | 2 points per box
+
+Notes
+-----
+
+These documents standardize on the "merchant" ship design rules outlined in _Full Thrust_. The choice between military and civilian ship is now mostly a matter of buying less than 50% of overall mass in hull boxes and filling 40% of the space for systems with [cargo space](CargoSpace). Optional rules allow for the creation of stronger hulls (with fewer hull rows), and a system to allow for cheaper thrust ratings in smaller hulls is being considered.
