@@ -1,2 +1,4 @@
-Starship Project
-----------------
+Starship Design System
+----------------------
+
+Initialisms: SSD, SDS, SSDS.
