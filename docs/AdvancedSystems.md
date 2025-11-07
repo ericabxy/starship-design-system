@@ -20,5 +20,6 @@ Advanced Systems
 * [Advanced FTL](AdvancedFtl)
 * [Advanced Hull](AdvancedHull)
 * [Advanced Screen](AdvancedScreen)
+* [Distortion Missile](DistortionMissile)
 * [Mega Battery](MegaBattery)
 * [Railgun System](RailgunSystem)

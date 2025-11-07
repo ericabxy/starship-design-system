@@ -18,4 +18,4 @@ _Mass available for remaining systems:_ 24 (19 cargo max)
 
 2 &times; [Point defense systems](PointDefenseSystem) (mass 2)
 
-1 &times; Class-1 [batteries](MainBattery) (mass 5)
+1 &times; Class-1 [batteries](MainBattery) (mass 1)

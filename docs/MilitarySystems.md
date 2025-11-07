@@ -1,7 +1,6 @@
 Military Systems
 ----------------
 
-* [Distortion Missile](DistortionMissile)
 * [Fighter Group](FighterGroup)
 * [Main Battery](MainBattery)
 * [Missile System](MissileCraft)
