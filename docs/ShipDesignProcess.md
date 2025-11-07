@@ -33,7 +33,7 @@ Optional: Designating Cargo Space
 
 Depending on the hull integrity chosen above, up to 40% of the hull's overall mass (rounded down) can be made into [cargo and passenger space](CargoSpace). For every 1-5% hull integrity beyond the minimum 25%, there is 8% less space available for cargo and passengers.
 
-[FTL tugs or tenders](TugTender) are designed to "tow" other ships through FTL space. These hulls are fitted with special, oversize FTL drive systems to accomplish the task, but the space needed is taken out of the overall mass available for cargo space.
+[FTL tugs and tenders](FtlTugTender) are designed to "tow" other ships through FTL space. These hulls are fitted with special, oversize FTL drive systems to accomplish the task, but the space needed is taken out of the overall mass available for cargo space.
 
 'Q' ships are civilian hulls fitted with military-grade combat systems. To accomplish this deceit, a merchant ship with the maximum amount of hold space is repurposed by installing weapons and defenses in its cargo holds. The resulting ship does not have military-grade hull integrity (it is average, 25%), but the maximum amount of hull is available for additional systems (50%).
 
