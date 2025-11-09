@@ -1,25 +1,35 @@
 Point Defense System
 --------------------
 
-A point defense system (PDS) is an array of short-range turrets designed to target fast-moving, lightly-armored craft like fighters and missiles.
+A point defense system (PDS) is an array of short-range weapons designed to target fast-moving, lightly-armored craft like fighters and missiles.
 
-Mandatory Point Defense Systems (experimental)
--------------------------------
+Rolling To Hit
+--------------
 
-Due to balance issues in the rules for fighter combat, efforts have been made to level the playing field.
+A PDS is normally fired in defense when the fitted ship is under attack from [fighters](FighterGroup) or other groups of small craft. One six-sided die is rolled per PDS.
 
-### Normal batteries as point defense
+| Every __1__, __2__, or __3__ rolled | No hits
+| Every __4__ or __5__ rolled         | Group loses __one__ craft
+| Every __6__ rolled                  | __Two__ craft killed
 
-Class-1 batteries were enhanced with a limited point defense capability, making it somewhat more practical to design them even into larger ships with room for more powerful batteries. The dual role makes fleets more likely to have at least moderate fighter and missile defense, making it less likely an opponent can win simply by swarming with fighters.
+Anti-ship Mode
+--------------
 
-### Mandatory or "free" point defense
+A point defense system may be used to fire against other ships instead of small craft. It is limited to a range of 6&Prime;. A PDS used in this mode cannot be used in defense mode on the same turn, but a FireCon is NOT required to target the enemy ship. Each PDS fired rolls ONE six-sided die.
 
-Requiring a ship of a certain size to mount a minimum amount of PDS would ensure a fleet always has at least adequate fighter/missile defense available. It might even be good to give a ship FREE point defense systems based on size.
+| Every __1-5__ rolled | No effect
+| Every __6__ rolled   | __One__ damage point
 
-### Removing dedicated point defense systems
+[Screen](ScreenGenerator) levels do not affect damage dealt.
 
-It may be beneficial to treat standard batteries as identical to point defense systems, either removing PDS from the design process entirely or treating them identically to Class-1 batteries.
+Alternative Point Defense Fire (experimental)
+------------------------------
 
-### Point defense fire control systems
+Meant for low-tech settings where ships are very vulnerable to the simplest weapons. Not intended for use with main batteries or defensive screens in play.
 
-The game could introduce a new system similar to the Area Defense FireCon. A Point Defense Fire Control (PDFC) system would allow most of the anti-ship batteries to operate in point defense mode, as long as the ship was being attacked within the battery's arc of fire. A PDFC might even allow the smallest Class-1 batteries to operate exactly as a standard PDS would.
+|            | __0-6″__	             | __6-12″__	        | __12-18″__
+| 1-3 rolled | No effect	         | No effect	        | No effect
+| 4 rolled 	 | __One__ damage point	 | No effect	        | No effect 
+| 5 rolled	 | __One__ damage point	 | __One__ damage point | No effect 
+| 6 rolled	 | __Two__ damage points | __One__ damage point | __One__ damage point 
+

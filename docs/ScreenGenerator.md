@@ -1,7 +1,7 @@
 Defensive Screen
 ----------------
 
-Screens are electromagnetic field generators used to disrupt and dissipate incoming [beam battery](BeamBatteries) fire. Active screens reduce the damage scored by each [beam die](BeamDice) rolled.
+Screens are electromagnetic field generators used to disrupt and dissipate incoming [beam battery](MainBattery) fire. Active screens reduce the damage scored by each [beam die](BeamDice) rolled.
 
 **Beam battery damage against defensive screens:**
 
