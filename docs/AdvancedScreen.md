@@ -34,43 +34,43 @@ Against Submuntions
 
 Advanced screens affect submunitions as if they were beams, taking fewer hits depending on screen level.
 
-**Submunitions damage against advanced screens:**
+__Submunitions damage against advanced screens:__
 
 | Results                                    | Screen Level 1        | Screen Level 2
 | -------                                    | --------------------- | --------------
-| Every **1**, **2**, **3**, or **4** rolled | No effect             | No effect
-| Every **5** rolled                             | **One** damage point  | **One** damage point
-| Every **6** rolled                             | **Two** damage points | **One** damage point
+| Every __1__, __2__, __3__, or __4__ rolled | No effect             | No effect
+| Every __5__ rolled                         | __One__ damage point  | __One__ damage point
+| Every __6__ rolled                         | __Two__ damage points | __One__ damage point
 
 Against Torpedoes
 -----------------
 
 Advanced screens do not affect the hit rate of [torpedoes](TorpedoSystem), but they do reduce the damage inflicted by successful hits.
 
-**Torpedo damage against advanced screens:**
+__Torpedo damage against advanced screens:__
 
 | Result       | Screen Level 1            | Screen Level 2
 | ------------ | --------------            | --------------
-| **1** rolled | No effect                 | No effect
-| **2** rolled | **One** damage point      | No effect
-| **3** rolled | **Two** damage points     | **One** damage point
-| **4** rolled | **Three** damage points   | **Two** damage points
-| **5** rolled | **Four** damage points    | **Three** damage points
-| **6** rolled | **Five** damage points    | **Four** damage points
+| __1__ rolled | No effect                 | No effect
+| __2__ rolled | __One__ damage point      | No effect
+| __3__ rolled | __Two__ damage points     | __One__ damage point
+| __4__ rolled | __Three__ damage points   | __Two__ damage points
+| __5__ rolled | __Four__ damage points    | __Three__ damage points
+| __6__ rolled | __Five__ damage points    | __Four__ damage points
 
 Against Railguns
 -----------------
 Advanced screens reduce the chance of taking double damage from a [railgun](RailgunSystem#advanced-screens) hit.
 
-**Railgun damage against advanced screens:**
+__Railgun damage against advanced screens:__
 
 | Screen Level 1 | 1-4 Rolled       | 5-6 Rolled
 | Screen Level 2 | 1-5 Rolled       | 6 Rolled
 | :------------: | ---------------- | ----------
-| Class 1        | **One** point    | **Two** points
-| Class 2        | **Two** points   | **Four** points
-| Class 3        | **Three** points | **Six** points
-| Class 4        | **Four** points  | **Eight** points
+| Class 1        | __One__ point    | __Two__ points
+| Class 2        | __Two__ points   | __Four__ points
+| Class 3        | __Three__ points | __Six__ points
+| Class 4        | __Four__ points  | __Eight__ points
 
 Relative Tech Level
 -------------------
