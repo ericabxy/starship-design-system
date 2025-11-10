@@ -1,5 +1,4 @@
-Coalition class HEAVY CRUISER
------------------------------
+### _Coalition_ class HEAVY CRUISER
 
 Mark Ⅸ
 -------
@@ -72,3 +71,8 @@ __Thrust Rating:__ 6
 1 &times; Screen generator
 
 1 &times; Point defense system
+
+See Also
+--------
+
+[Star Trek Classic Full Thrust](StarTrekClassicFullThrust)
