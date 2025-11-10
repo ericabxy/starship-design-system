@@ -18,13 +18,8 @@ Symbols:
   <div class='torpedo-system'>
   </div>
 </div>
-
 <div class='ship-diagram'>
-  <div class='torpedo-system torpedo-system--port'>
-  </div>
-  <div class='torpedo-system torpedo-system--fore'>
-  </div>
-  <div class='torpedo-system torpedo-system--starboard'>
+  <div class='torpedo-system torpedo-system--3-arc'>
   </div>
 </div>
 
@@ -48,13 +43,8 @@ Symbols:
   <div class='torpedo-system torpedo-system--long-range'>
   </div>
 </div>
-
 <div class='ship-diagram'>
-  <div class='torpedo-system torpedo-system--long-range-port'>
-  </div>
-  <div class='torpedo-system torpedo-system--long-range-fore'>
-  </div>
-  <div class='torpedo-system torpedo-system--long-range-starboard'>
+  <div class='torpedo-system torpedo-system--long-range-3-arc'>
   </div>
 </div>
 
@@ -69,3 +59,14 @@ Short-range Torpedoes
 | **8-12″**  | Required score to hit: | **4** to **6**
 | **12-16″** | Required score to hit: | **5** or **6**
 | **16-20″** | Required score to hit: | **6** only
+
+Symbols:
+
+<div class='ship-diagram'>
+  <div class='torpedo-system torpedo-system--short-range'>
+  </div>
+</div>
+<div class='ship-diagram'>
+  <div class='torpedo-system torpedo-system--short-range-3-arc'>
+  </div>
+</div>

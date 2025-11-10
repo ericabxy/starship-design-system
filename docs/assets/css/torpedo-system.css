@@ -6,30 +6,22 @@
   width: 3em;
 }
 
-.torpedo-system--fore {
-  background-image: url('torpedo-system-multi-arc.svg');
-}
-
-.torpedo-system--port {
-  background-image: url('torpedo-system-ap-fp-fwd.svg');
-}
-
-.torpedo-system--starboard {
-  background-image: url('torpedo-system-alt.svg');
+.torpedo-system--3-arc {
+  background-image: url('torpedo-system-3-arc.svg');
 }
 
 .torpedo-system--long-range {
   background-image: url('torpedo-system-long-range.svg');
 }
 
-.torpedo-system--long-range-fore {
-  background-image: url('torpedo-system-long-range-fp-fwd-fs.svg');
+.torpedo-system--long-range-3-arc {
+  background-image: url('torpedo-system-long-range-3-arc.svg');
 }
 
-.torpedo-system--long-range-port {
-  background-image: url('torpedo-system-long-range-ap-fp-fwd.svg');
+.torpedo-system--short-range {
+  background-image: url('torpedo-system-short-range.svg');
 }
 
-.torpedo-system--long-range-starboard {
-  background-image: url('torpedo-system-long-range-fwd-fs-as.svg');
+.torpedo-system--short-range-3-arc {
+  background-image: url('torpedo-system-short-range-3-arc.svg');
 }
