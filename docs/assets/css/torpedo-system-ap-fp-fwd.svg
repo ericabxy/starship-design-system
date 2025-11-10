@@ -1,24 +1,13 @@
 <svg version="1.1"
      viewBox='0 0 100 100'
      xmlns="http://www.w3.org/2000/svg">
-  <g stroke='Tan' stroke-width='5'>
-    <rect x='40' y='25' width='20' height='25' fill='Tan' />
-    <rect x='40' y='50' width='20' height='47' fill='none' />
-    <!-- fore arcs -->
+  <g fill='tan' stroke='tan' stroke-width='1'>
+    <path d='M 28 28 L 10 18 L 2 32 L 20 42' />
+    <path d='M 72 28 L 90 18 L 98 32 L 80 42' />
   </g>
-  <g fill='Tan' stroke='Tan' stroke-width='1'>
-    <g font-family='sans-serif' font-size='250%' font-weight='bold'>
-      <g dominant-baseline='middle' text-anchor='middle'>
-        <text x='15' y='90'>
-          *
-        </text>
-        <text x='15' y='50'>
-          *
-        </text>
-        <text x='50' y='30'>
-          *
-        </text>
-      </g>
-    </g>
+  <g fill='tan' stroke='tan' stroke-width='5'>
+    <path d='M 20 50 A 30 30 0 0 1 80 50 Z' />
+    <rect x='44' y='2' width='12' height='45' />
+    <rect x='40' y='50' width='20' height='47' fill='none' />
   </g>
 </svg>

@@ -1,0 +1,35 @@
+.torpedo-system {
+  background-image: url('torpedo-system.svg');
+  display: inline-block;
+  height: 3em;
+  margin: .2em;
+  width: 3em;
+}
+
+.torpedo-system--fore {
+  background-image: url('torpedo-system-multi-arc.svg');
+}
+
+.torpedo-system--port {
+  background-image: url('torpedo-system-ap-fp-fwd.svg');
+}
+
+.torpedo-system--starboard {
+  background-image: url('torpedo-system-alt.svg');
+}
+
+.torpedo-system--long-range {
+  background-image: url('torpedo-system-long-range.svg');
+}
+
+.torpedo-system--long-range-fore {
+  background-image: url('torpedo-system-long-range-fp-fwd-fs.svg');
+}
+
+.torpedo-system--long-range-port {
+  background-image: url('torpedo-system-long-range-ap-fp-fwd.svg');
+}
+
+.torpedo-system--long-range-starboard {
+  background-image: url('torpedo-system-long-range-fwd-fs-as.svg');
+}

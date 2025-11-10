@@ -1,9 +1,7 @@
 .beam-battery {
   background-image: url('battery.svg');
-  color: tan;
   display: inline-block;
   height: 3em;
-  text-align: center;
   width: 3em;
 }
 

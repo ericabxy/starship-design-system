@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox='0 0 100 100'>
+  <g fill='none' stroke='tan' stroke-width='5'>
+    <circle cx='50' cy='50' r='30' />
+    <line x1='50' y1='20' x2='50' y2='0' /><!-- FWD -->
+    <line x1='30' y1='25' x2='45' y2='80' />
+    <line x1='70' y1='25' x2='55' y2='80' />
+    <line x1='22' y1='34' x2='6'  y2='25' />
+  </g>
+  <g fill='tan' stroke='tan' stroke-width='1' text-anchor='middle'>
+    <g font-family='sans-serif' font-weight='bold'>
+      <text x='50' y='60' font-size='36'>3</text>
+    </g>
+  </g>
+</svg>

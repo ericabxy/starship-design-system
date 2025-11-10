@@ -1,0 +1,11 @@
+.needle-system {
+  background-image: url('needle-system.svg');
+  display: inline-block;
+  height: 3em;
+  margin: .2em;
+  width: 3em;
+}
+
+.needle-system--alt {
+  background-image: url('needle-system-alt.svg');
+}

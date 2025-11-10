@@ -1,0 +1,20 @@
+.megabattery {
+  background-image: url('megabattery.svg');
+  color: tan;
+  display: inline-block;
+  height: 3em;
+  text-align: center;
+  width: 3em;
+}
+
+.megabattery--class-1 {
+  background-image: url('megabattery-class-1.svg');
+}
+
+.megabattery--class-2 {
+  background-image: url('megabattery-class-2.svg');
+}
+
+.megabattery--class-3 {
+  background-image: url('megabattery-class-3.svg');
+}

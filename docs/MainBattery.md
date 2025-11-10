@@ -74,17 +74,19 @@ Ships using these design rules tend to have far fewer hull boxes than the revise
 Design Procedure
 ----------------
 
-| Battery       | Bearing      | Mass     | Points Cost
-| -------       | -------      | ----     | -----------
-| __*Class-1*__ | __*6-arcs*__ | __*1*__  | __*3*__
-| __*Class-2*__ | __*3-arcs*__ | __*2*__  | __*6*__
-| Class-2       | 6-arcs       | 3        | 9
-| __*Class-3*__ | __*1-arc*__  | __*3*__  | __*9*__
-| Class-3       | 2-arc        | 4        | 12
-| Class-3       | 3-arc        | 5        | 15
-| __*Class-4*__ | __*1-arc*__  | __*5*__  | __*15*__---
-| Class-4       | 2-arc        | 8        | 24
-| __*Class-5*__ | __*1-arc*__  | __*8*__  | __*24*__
+|         | Class-1 | Class-2 | Class-3 | Class-4 | Class-5
+| ------- | ------- | ------- | ------- | ------- | -------
+| Bearing | 6-arc   | 3-arc   | 1-arc   | 1-arc   | 1-arc
+| Mass    | 1       | 2       | 3       | 5       | 8
+| Cost    | 3       | 6       | 9       | 15      | 24
+|
+| Bearing |         | 6-arc   | 2-arc   | 2-arc
+| Mass    |         | 3       | 4       | 8
+| Cost    |         | 9       | 12      | 24
+|
+| Bearing |         |         | 3-arc
+| Mass    |         |         | 5
+| Cost    |         |         | 15
 
 External Links
 --------------

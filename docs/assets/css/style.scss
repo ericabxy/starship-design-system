@@ -4,6 +4,9 @@
 @import 'jekyll-theme-primer';
 @import 'beam-battery.css';
 @import 'cargo-space.css';
+@import 'needle-system.css';
+@import 'railgun-system.css';
+@import 'torpedo-system.css';
 
 html {
   min-height: 100%;
@@ -20,6 +23,10 @@ header, h1, h2 {
   border-radius: 0 1em 0 0;
   padding: 0.4em;
   text-transform: uppercase;
+}
+
+pre {
+  background: transparent !important;
 }
 
 a {
@@ -238,40 +245,4 @@ th, td {
   color: Tan;
   width: 3em;
   height: 3em;
-}
-
-.torpedo-system {
-  background-image: url('torpedo-system.svg');
-  display: inline-block;
-  height: 3em;
-  margin: .2em;
-  width: 3em;
-}
-
-.torpedo-system--fore {
-  background-image: url('torpedo-system-fp-fwd-fs.svg');
-}
-
-.torpedo-system--port {
-  background-image: url('torpedo-system-ap-fp-fwd.svg');
-}
-
-.torpedo-system--starboard {
-  background-image: url('torpedo-system-fwd-fs-as.svg');
-}
-
-.torpedo-system--long-range {
-  background-image: url('torpedo-system-long-range.svg');
-}
-
-.torpedo-system--long-range-fore {
-  background-image: url('torpedo-system-long-range-fp-fwd-fs.svg');
-}
-
-.torpedo-system--long-range-port {
-  background-image: url('torpedo-system-long-range-ap-fp-fwd.svg');
-}
-
-.torpedo-system--long-range-starboard {
-  background-image: url('torpedo-system-long-range-fwd-fs-as.svg');
 }

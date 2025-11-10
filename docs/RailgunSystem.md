@@ -1,18 +1,33 @@
 Railgun System
 --------------
 
-Electromagnetic accelerator fires solid penetrators at high velocity. The chance to hit a target is the same as [torpedo](Torpedo) weapons.
+Electromagnetic accelerator fires solid penetrators at high velocity. The chance to hit a target is the same as [torpedo systems](TorpedoSystem).
+
+Symbols:
+
+<div class='ship-diagram'>
+  <div class='railgun-system railgun-system--class-1'></div>
+</div>
+<div class='ship-diagram'>
+  <div class='railgun-system railgun-system--class-2'></div>
+</div>
+<div class='ship-diagram'>
+  <div class='railgun-system railgun-system--class-3'></div>
+</div>
+
+Range and Rolling To Hit
+------------------------
 
 | At range of:
-| **0-6″**   | Required score to hit: | **2** to **6**
-| **6-12″**  | Required score to hit: | **3** to **6**
-| **12-18″** | Required score to hit: | **4** to **6**
-| **18-24″** | Required score to hit: | **5** or **6**
-| **24-30″** | Required score to hit: | **6** only
+| __0-6″__   | Required score to hit: | __2__ to __6__
+| __6-12″__  | Required score to hit: | __3__ to __6__
+| __12-18″__ | Required score to hit: | __4__ to __6__
+| __18-24″__ | Required score to hit: | __5__ or __6__
+| __24-30″__ | Required score to hit: | __6__ only
 
 For each railgun projectile that hits, damage is dealt equal to the class of the railgun. However there is a chance it will deal _double_ the damage instead. Roll another six-sided die to determine the result.
 
-**Railgun damage:**
+__Railgun damage:__
 
 | Railgun Class  | 1-3 Rolled   | 4-6 Rolled
 | :------------: | ------------ | ----------
@@ -28,7 +43,7 @@ Advanced Screens
 
 While standard defensive screens do not affect railgun hits or damage in any way, [advanced screens](AdvancedScreen#against-railguns) are able to reduce the chance of taking double damage.
 
-**Railgun damage against advanced screens:**
+__Railgun damage against advanced screens:__
 
 | Screen Level 1 | 1-4 Rolled   | 5-6 Rolled
 | Screen Level 2 | 1-5 Rolled   | 6 Rolled

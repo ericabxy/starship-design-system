@@ -1,0 +1,18 @@
+.railgun-system {
+  background-image: url('railgun-system.svg');
+  display: inline-block;
+  height: 3em;
+  width: 3em;
+}
+
+.railgun-system--class-1 {
+  background-image: url('railgun-system-class-1.svg');
+}
+
+.railgun-system--class-2 {
+  background-image: url('railgun-system-class-2.svg');
+}
+
+.railgun-system--class-3 {
+  background-image: url('railgun-system-class-3.svg');
+}
