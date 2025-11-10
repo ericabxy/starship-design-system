@@ -1,7 +1,7 @@
 Main Battery
 ------------
 
-This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can sometimes be partially countered by expensive defense technology that can absorb, disrupt, or deflect incoming missiles/beams.
+This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can be partially countered by expensive [defense technology](ScreenGenerator) that can absorb, disrupt, or deflect incoming missiles/beams.
 
 Symbols:
 
@@ -87,6 +87,11 @@ Design Procedure
 | Bearing |         |         | 3-arc
 | Mass    |         |         | 5
 | Cost    |         |         | 15
+
+Lore
+----
+
+The main battery in these documents represents whatever ship-to-ship weaponry is extant in the fiction the vessel lives in. It could be a directed-energy weapon or a particle accelerator---like a _laser beam_, a _phaser beam_, or a _particle beam_. It could be something more mundane like _high-velocity projectiles_ or other _ballistic missiles_.
 
 External Links
 --------------
