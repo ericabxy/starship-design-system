@@ -13,7 +13,7 @@ S
 T
 : Troop accommodations
 
-A "merchant" or civilian ship with only 10% mass available for other systems has a total of 40% dedicated to cargo space. If the ship takes damage, cargo space is lost in proportion to the hull boxes that are crossed off. To make this easy to calculate, divide the total cargo space into portions according to the number of hull rows the ship has. Every time the ship loses enough hull to reach a [damage threshold](ThresholdPoints), one portion of the cargo space is lost and must be crossed off the ship diagram.
+A "merchant" or civilian ship with only 10% mass available for other systems has a total of 40% dedicated to cargo space. If the ship takes damage, cargo space is lost in proportion to the hull boxes that are crossed off. To make this easy to calculate, divide the total cargo space into portions according to the number of hull rows the ship has. Every time the ship loses enough hull to reach a [damage threshold](ThresholdCheck), one portion of the cargo space is lost and must be crossed off the ship diagram.
 
 Cargo and passenger carrying capacity leave less room for the reinforcement and compartmentalization needed to create "strong" hulls, to the more cargo space a ship has, the fewer hull boxes it can have. For example, 
 
