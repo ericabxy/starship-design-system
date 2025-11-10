@@ -16,8 +16,21 @@ Assign a 1-3 damage control factors to each eligible system and roll one die for
 
 Damage control factors are an integral feature of a ship's crew and internal systems. They need not be marked on a ship diagram and aren't rolled for during threshold checks, but losing hull boxes reduces the number of DCF you have available.
 
-Other Kinds of Crew Members
----------------------------
+Other Crew (experimental)
+----------
+
+Ideas for extra or specialized crew members. Paid for in points and rolled for at threshold checks.
+
+_Chief Engineer:_ Can attempt to repair a system knocked-out by [needle strike](NeedleSystem) during damage control. System repaired on a roll of __6__ only.
+
+_Navigator:_ Can attempt to avoid fatal collision with a [large body](Asteroids) by rolling a second D6 and using the best result.
+
+_Medical Officer:_ Can attempt to revive another crew member during damage control, succeeding on a roll of __6__ only.
+
+External Links
+--------------
+
+[Senior Officers To The Bridge... Characters for Star Trek Full Thrust](https://www.ifelix.co.uk/art14.html)
 
 *[DCF]: Damage Control Factor/Party
 *[DCP]: Damage Control Party/Factor
