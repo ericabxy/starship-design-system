@@ -1,11 +1,12 @@
 <svg version="1.1"
      viewBox='0 0 100 100'
      xmlns="http://www.w3.org/2000/svg">
+  <g fill='tan' stroke='tan' stroke-width='5'>
+    <rect x='40' y='2' width='20' height='45' />
+    <path d='M 5 30 L 40 50 V 30 L 14 15 Z' /><!-- FP Arc -->
+    <path d='M 95 30 L 60 50 V 30 L 86 15 Z' /><!-- FS Arc -->
+  </g>
   <g fill='none' stroke='tan' stroke-width='5'>
-    <rect x='40' y='50' width='20' height='48'/>
-    <path d='M 10 50 A 30 30 0 0 1 90 50 Z' fill='tan' />
-    <line x1='22' y1='34' x2='6' y2='25' /><!-- FP Arc -->
-    <line x1='50' y1='20' x2='50' y2='0' /><!-- FWD Arc -->
-    <line x1='78' y1='34' x2='94' y2='25' /><!-- FS Arc -->
+    <rect x='40' y='50' width='20' height='48' />
   </g>
 </svg>

@@ -22,8 +22,6 @@ Symbols:
   </div>
 </div>
 
-The alternate icon above is designed to make it easier to tell the difference between standard and advanced screen generators if you are drawing the symbol by hand with pen and paper.
-
 Against Batteries
 -----------------
 
@@ -32,7 +30,7 @@ Advanced screens work as normal [defensive screens](ScreenGenerator) against [be
 Against Submuntions
 -------------------
 
-Advanced screens affect submunitions as if they were beams, taking fewer hits depending on screen level.
+Advanced screens affect [submunitions](Submunitions) as if they were beams, taking fewer hits depending on screen level.
 
 __Submunitions damage against advanced screens:__
 
