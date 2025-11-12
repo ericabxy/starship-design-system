@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 _Island_ class SPACE STATION
 ----------------------------
 

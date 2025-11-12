@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 ### _Caravan_-class BATTLEDREADNOUGHT
 
 __Total Mass:__ 100

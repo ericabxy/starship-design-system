@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 Mutual class ESCORT CRUISER
 ---------------------------
 

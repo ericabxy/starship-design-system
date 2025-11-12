@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 ### _Mothership_ class MOBILE CONSTRUCTION FACILTY
 
 __Total Mass:__ 600

@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 ### _Curious_ class SURVEY CRUISER
 
 __Total Mass:__ 48

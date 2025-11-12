@@ -1,3 +1,7 @@
+---
+categories: shipdesign
+---
+
 ### _Coalition_ class HEAVY CRUISER
 
 Mark Ⅸ
