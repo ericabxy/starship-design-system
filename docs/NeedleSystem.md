@@ -1,3 +1,9 @@
+---
+categories:
+- ship system
+- advanced rules
+---
+
 Needle System
 --------------
 
@@ -6,14 +12,7 @@ A needle system is a short-range weapons array capable of tightly-focused, accur
 Targeting a system on an enemy ship requires one [FireCon](FireControlSystem), which can't be used to fire other non-needle systems this turn. It CAN however be used to fire other needles at the SAME target system this turn.
 
 Symbols:
-
-<div class='ship-diagram'>
-  <div class='needle-system'></div>
-</div>
-
-<div class='ship-diagram'>
-  <div class='needle-system needle-system--alt'></div>
-</div>
+![](assets/needle-system.svg)
 
 Range and Rolling To Hit
 ------------------------
@@ -30,8 +29,8 @@ A system knocked-out by needle fire cannot be repaired by [damage control](Damag
 
 Needle systems are unaffected by [screens](ScreenGenerator) and armor.
 
-Multiple Firing Arcs (experimental)
---------------------
+Multi-arc Needle System (experimental)
+-----------------------
 
 At extra mass and cost a needle system can be fitted to fire through up to 180 degrees of arc.
 
@@ -40,8 +39,30 @@ At extra mass and cost a needle system can be fitted to fire through up to 180 d
   </div>
 </div>
 
-Un-enhanced Needle System (obsolete)
--------------------------
+Heavy Needle System (experimental)
+-------------------
+
+<div class='ship-diagram'>
+  <div class='needle-system needle-system--heavy'>
+  </div>
+</div>
+
+Design Procedure
+----------------
+
+|                | Bearing           | Mass | Cost
+| ---            | :-----:           | :--: | ----
+| _Standard_
+|                |  60&deg; (1 arc)  | 2    | 6 points
+|                | 120&deg; (2 arcs) | 3    | 9 points
+|                | 180&deg; (3 arcs) | 4    | 12 points
+| _Heavy Needle_
+|                |  60&deg; (1 arc)  | 5    | 15 points
+|                | 120&deg; (2 arcs) | 8    | 24 points
+|                | 180&deg; (3 arcs) | 11   | 33 points
+
+Obsolete Version
+----------------
 
 An older version of the needle system was less effective.
 
@@ -56,3 +77,8 @@ Lore
 ----
 
 Although it is a separate system on the ship diagram, needle systems can represent the ship's main battery being used in a more accurate mode to "call shots" as in "target engines only".
+
+External Links
+--------------
+
+[Extended Needle Beams](https://nift.firedrake.org/weapons/WDA-Beams.htm#Ext_Needle)

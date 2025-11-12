@@ -1,7 +1,16 @@
+---
+categories:
+- ship system
+- advanced rules
+---
+
 Submunitions
 ----------
 
 A submunition system is a one-shot package of short-range missiles, designed to pack a punch at a lower cost than heavier multi-use weapon systems.
+
+Symbols:
+![](assets/submunitions-pack.svg)
 
 Firing submunitions generates damage by rolling a number of dice depending on range to target.
 
@@ -20,13 +29,6 @@ Damage is determined similarly to beam batteries, but submutions are _unaffected
 | Every **6** rolled                  | **Two** damage points
 
 After being fired, a submunitions system cannot be used again during the battle. You must cross off its symbol on the ship system display.
-
-Symbols:
-
-<div class='ship-diagram'>
-  <div class='submunitions-pack'>
-  </div>
-</div>
 
 Magazines (experimental)
 ---------
