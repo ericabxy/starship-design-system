@@ -1,3 +1,9 @@
+---
+categories:
+- ship system
+- more rules
+---
+
 Hangar Bay
 ----------
 

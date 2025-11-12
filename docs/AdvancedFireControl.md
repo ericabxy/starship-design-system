@@ -1,3 +1,8 @@
+---
+categories:
+- ship system
+---
+
 Advanced Fire Control
 ---------------------
 

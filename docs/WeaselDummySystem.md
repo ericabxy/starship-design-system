@@ -1,3 +1,9 @@
+---
+categories:
+- ship system
+- advanced rules
+---
+
 Weasel Dummy System
 -------------------
 

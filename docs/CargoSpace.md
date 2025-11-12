@@ -1,3 +1,10 @@
+---
+categories:
+- ship system
+- advanced rules
+- more rules
+---
+
 Cargo Space
 -----------
 
@@ -18,20 +25,8 @@ A "merchant" or civilian ship with only 10% mass available for other systems has
 Cargo and passenger carrying capacity leave less room for the reinforcement and compartmentalization needed to create "strong" hulls, to the more cargo space a ship has, the fewer hull boxes it can have. For example, 
 
 Symbols:
-
-<div class='ship-diagram'>
-  <div class='cargo-space cargo-space--hold-10'></div>
-  <div class='cargo-space cargo-space--hold-10'></div>
-  <div class='cargo-space cargo-space--hold-10'></div>
-  <div class='cargo-space cargo-space--hold-10'></div>
-</div>
-
-<div class='ship-diagram'>
-  <div class='cargo-space cargo-space--passenger-5'></div>
-  <div class='cargo-space cargo-space--passenger-5'></div>
-  <div class='cargo-space cargo-space--passenger-5'></div>
-  <div class='cargo-space cargo-space--passenger-5'></div>
-</div>
+![](assets/cargo-space-hold-10.svg)
+![](assets/cargo-space-passenger-5.svg)
 
 Faster-than-light Tug Capacity
 ------------------------------

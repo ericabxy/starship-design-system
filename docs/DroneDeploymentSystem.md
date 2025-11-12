@@ -1,3 +1,9 @@
+---
+categories:
+- ship system
+- advanced rules
+---
+
 Drone Deployment System
 -----------------------
 

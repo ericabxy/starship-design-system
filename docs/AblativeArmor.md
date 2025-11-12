@@ -1,3 +1,8 @@
+---
+categories:
+- ship system
+---
+
 Ablative Armor
 --------------
 

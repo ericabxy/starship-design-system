@@ -6,13 +6,7 @@ This system is designed to extend a ship's FTL drive fields around another ship 
 Tug capacity is limited just like [cargo space](CargoSpace) to a maximum of 40% hull mass, and a hull with higher-than-average integrity (more than 25%) reduces this maximum as well.
 
 Symbols:
-
-<div class='ship-diagram'>
-  <div class='cargo-space cargo-space--ftl-tug-5'></div>
-  <div class='cargo-space cargo-space--ftl-tug-5'></div>
-  <div class='cargo-space cargo-space--ftl-tug-5'></div>
-  <div class='cargo-space cargo-space--ftl-tug-5'></div>
-</div>
+![](assets/cargo-space-faster-than-light-5.svg)
 
 Each 2 mass of FTL tug space grants 5 mass of FTL towing capacity and costs 10 points. Thus, a MASS 50 Tug with 20 space dedicated could tow a ship of up to MASS 50 through FTL space, and a MASS 60 Tender with 24 space could carry up to 60 mass of ships through.
 

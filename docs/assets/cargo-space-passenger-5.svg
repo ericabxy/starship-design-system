@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg" width='36' height='36'>
+  <g fill='none' stroke='#777' stroke-width='5'>
+    <rect x='2' y='2' width='96' height='96' />
+  </g>
+  <g fill='#777' stroke='#777' stroke-width='1'>
+    <text x='50%' y='44'
+          font-family='sans-serif'
+          font-size='48px'
+          font-weight='bold'
+          text-anchor='middle'>P
+    </text>
+    <text x='50' y='88'
+          font-family='sans-serif'
+          font-size='48px'
+          font-weight='bold'
+          text-anchor='middle'>5
+    </text>
+  </g>
+</svg>

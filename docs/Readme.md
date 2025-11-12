@@ -1,12 +1,9 @@
-Introduction
-------------
-
-_Full Thrust_ is a sci-fi wargaming rule system with simple procedures for designing balanced starships and conducting various space combat and operation scenarios. Players design their starships and compose fleets, then test their capabilities in gameplay scenarios.
+This is a space ship design system based on the tabletop wargame _Full Thrust_. Simple procedures are defined for designing balanced starships and conducting operations in space.
 
 Ship Design
 -----------
 
-Constructing a ship follows some fast and simple design rules: you choose the size of hull you want to work with, then proceed to cram as much _space stuff_ as you can inside it. See the [ship design rules](ShipDesignProcess) for details.
+Constructing a ship follows fast and simple design rules. See the [ship design process](ShipDesignProcess) for details, [ship designs](Categories#ship-designs) for examples, or you may be looking for a list of [ship systems](Categories#ship-systems) available for fitting.
 
 Gameplay
 --------
