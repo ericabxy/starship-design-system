@@ -1,18 +1,19 @@
+---
+categories:
+- ship system
+- core rules
+- basic rules
+---
+
 Main Battery
 ------------
 
 This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can be partially countered by expensive [defense technology](ScreenGenerator) that can absorb, disrupt, or deflect incoming missiles/beams.
 
 Symbols:
-
-<div class='ship-diagram'>
-    <div class='beam-battery beam-battery--class-2-starboard'>
-    </div>
-    <div class='beam-battery beam-battery--class-3'>
-    </div>
-    <div class='beam-battery beam-battery--class-1'>
-    </div>
-</div>
+![](assets/main-battery-class-2-fs-three-arc.svg)
+![](assets/main-battery-class-3-fwd-arc.svg)
+![](assets/main-battery-class-1-all-arc.svg)
 
 Rolling To Hit
 --------------
@@ -74,19 +75,22 @@ Ships using these design rules tend to have far fewer hull boxes than the revise
 Design Procedure
 ----------------
 
-|         | Class-1 | Class-2 | Class-3 | Class-4 | Class-5
-| ------- | ------- | ------- | ------- | ------- | -------
-| Bearing | 6-arc   | 3-arc   | 1-arc   | 1-arc   | 1-arc
-| Mass    | 1       | 2       | 3       | 5       | 8
-| Cost    | 3       | 6       | 9       | 15      | 24
-|
-| Bearing |         | 6-arc   | 2-arc   | 2-arc
-| Mass    |         | 3       | 4       | 8
-| Cost    |         | 9       | 12      | 24
-|
-| Bearing |         |         | 3-arc
-| Mass    |         |         | 5
-| Cost    |         |         | 15
+|               | Bearing          | Mass | Cost
+| ------------- | -------          | :--: | ----
+| _Class-1_
+|               | 360&deg; (6-arc) | 1    | 3 points
+| _Class-2_
+|               | 120&deg; (3-arc) | 2    | 6 points
+|               | 360&deg; (6-arc) | 3    | 9 points
+| _Class-3_
+|               |  60&deg; (1-arc) | 3    | 9 points
+|               | 120&deg; (2-arc) | 4    | 12 points
+|               | 180&deg; (3-arc) | 5    | 15 points
+| _Class-4_
+|               |  60&deg; (1-arc) | 5    | 15 points
+|               | 120&deg; (2-arc) | 8    | 24 points
+| _Class-5_
+|               |  60&deg; (1-arc) | 8    | 24 points
 
 Lore
 ----
