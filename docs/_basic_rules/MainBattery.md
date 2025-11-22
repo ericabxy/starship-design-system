@@ -19,8 +19,6 @@ Symbols:
 Rolling To Hit
 --------------
 
-See [Range and Bearing](RangeAndBearing) for details on how to find direction and distance to targets.
-
 To determine the effect of firing on a target, a number of dice are rolled depending on range. Class-3 batteries have a maximum range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
 |              | **0-12″**    | **12-24″**   | **24-36″**   | **36-48″**
