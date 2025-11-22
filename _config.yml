@@ -12,12 +12,16 @@ collections:
     output: true
   advanced_rules:
     output: true
+    permalink: /:title
   basic_rules:
     output: true
+    permalink: /:title
   more_rules:
     output: true
+    permalink: /:title
   ship_designs:
     output: true
+    permalink: /:title
 
 defaults:
   -

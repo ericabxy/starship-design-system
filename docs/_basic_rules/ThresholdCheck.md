@@ -1,5 +1,8 @@
-Threshold Points
-----------------
+---
+---
+
+Threshold Check
+---------------
 
 When a ship looses an entire row of hull boxes, it can suffer damage to internal systems determined by a process called Threshold Point Check. The player of the ship rolls a six-sided die for each and every ship system considered vulnerable to threshold damage. The result of the roll depends on how many threshold points have been reached.
 

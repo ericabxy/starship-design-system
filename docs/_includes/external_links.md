@@ -1,7 +1,6 @@
-External Links
---------------
+---
 
-The following links have been useful during the development of this design system or as semi-related curiosities.
+## External Links
 
 * [AnyDice](https://anydice.com/)
 * [Attack Vector](http://web.archive.org/web/20010613071537/www.io.com/~desantom/AttVec/ATTVEC.HTM)

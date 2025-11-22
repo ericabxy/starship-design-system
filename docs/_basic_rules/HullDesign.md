@@ -1,3 +1,7 @@
+---
+title: Hull Design
+---
+
 Hull Design
 -----------
 
@@ -9,7 +13,7 @@ Next it is necessary to cost the hull's structural integrity. Integrity must equ
 
 ### Damage Points
 
-A ship gets an amount of DAMAGE POINTS equal to its structural integrity, and each DP costs 2 additional construction points.
+A ship gets an amount of DAMAGE POINTS equal to its structural integrity, and each DP costs 2 additional construction points. The amount of structural integrity determins how much damage the hull can take before needing a [threshold check](ThresholdCheck).
 
 ### Atmospheric Streamlining (Optional)
 

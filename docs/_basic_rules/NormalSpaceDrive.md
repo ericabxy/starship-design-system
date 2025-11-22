@@ -23,6 +23,34 @@ __Mass:__ A ship's normal drive is part of the 50% reserved for essential system
 
 __Points Cost:__ Every one unit of thrust costs a number of points equal to the ship's total mass.
 
+Course Determination
+--------------------
+
+Ship Velocity
+-------------
+
+Thrust Ratings
+--------------
+
+Movement
+--------
+
+Course Changes
+--------------
+
+Leaving the Table
+-----------------
+
+As ships have limited thrust and no maximum speed, velocity can easily move a ship off the edge of the playing field. If this happens, the ship can be considered LOST for the duration of the scenario. The vessel's poorly-managed velocity has overshot the engagement zone and doesn't have enough thrust to re-engage during play-time.
+
+If needed, one six-sided die ca be rolled to determine whether the ship can actually find its way back.
+
+| On a roll of...
+| 1, 2, or 3 | The ship may NOT return to play during this scenario
+| 4, 5, or 6 | The ship may re-enter the table after this many turns
+
+A ship that manages to return will re-enter play from the same side of the table as it left, at any point along that table edge.
+
 Notes
 -----
 
