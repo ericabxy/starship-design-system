@@ -62,3 +62,9 @@ Notes
 -----
 
 The rules for missile craft are meant to be an interesting single- and multi-turn projectile weapon, as well as provide options for settings that don't include "fighter"-size craft---a sci-fi concept that is considered unrealistic or undesirable in some cases!
+
+References
+----------
+
+[Medium Tactical Missile Systems](https://nift.firedrake.org/weapons/WDA-Missiles.htm#MTM-update)
+[Standard Heavy Missile (Islamic Federation)](https://fullthrust.star-ranger.com/IFstats.htm)

@@ -39,3 +39,8 @@ The cutting-edge technology used in megabatteries cost more in points and take u
 | Class 1 Battery | 2    | 6
 | Class 2 Battery | 5    | 15
 | Class 3 Battery | 8    | 24
+
+References
+----------
+
+[Graser (UNSC Ship Stats)](https://fullthrust.star-ranger.com/UNSCstats.htm)

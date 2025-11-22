@@ -1,7 +1,5 @@
 ---
-categories:
-- ship system
-- advanced rules
+category: advanced-weapon
 ---
 
 Torpedo System
@@ -107,6 +105,6 @@ The torpedo system is designed to represent a powerful secondary direct-fire wea
 External Links
 --------------
 
-[Weapons & Defences Archive - Long Range Pulse Torpedo Launcher](https://nift.firedrake.org/weapons/WDA-Torps.htm#LR_PTorp)
-
-[Weapons & Defences Archive - Short Range Pulse Torpedo](https://nift.firedrake.org/weapons/WDA-Torps.htm#SR_PTorp)
+- [Long Range Pulse Torpedo (New Israeli Defense Fleet)](https://fullthrust.star-ranger.com/NIstats.htm)
+- [Weapons & Defences Archive - Long Range Pulse Torpedo Launcher](https://nift.firedrake.org/weapons/WDA-Torps.htm#LR_PTorp)
+- [Weapons & Defences Archive - Short Range Pulse Torpedo](https://nift.firedrake.org/weapons/WDA-Torps.htm#SR_PTorp)

@@ -1,8 +1,5 @@
 ---
-categories:
-- ship system
-- core rules
-- basic rules
+category: basic-system
 ---
 
 Main Battery

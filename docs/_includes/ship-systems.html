@@ -1,0 +1,25 @@
+<table>
+<tr>
+<th colspan='2'>Ship Systems</th>
+</tr>
+<tr>
+<th>Basic Systems</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "basic-system" %}
+    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+  {% endif %}
+{% endfor %}
+</td>
+</tr>
+<tr>
+<th>Advanced Weapons</th>
+<td>
+{% for doc in site.pages %}
+  {% if doc.category == "advanced-weapon" %}
+    &bull; <a href="{{ doc.url }}">{{ doc.title }}</a>
+  {% endif %}
+{% endfor %}
+</td>
+<tr>
+</table>

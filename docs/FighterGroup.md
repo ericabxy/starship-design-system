@@ -1,8 +1,5 @@
 ---
-categories:
-- ship system
-- basic rules
-- advanced rules
+category: basic-system
 ---
 
 Fighter Group

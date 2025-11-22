@@ -1,8 +1,5 @@
 ---
-categories:
-- ship system
-- core rules
-- basic rules
+category: core-rules
 ---
 
 Fire Control System

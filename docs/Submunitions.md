@@ -1,7 +1,5 @@
 ---
-categories:
-- ship system
-- advanced rules
+category: advanced-weapon
 ---
 
 Submunitions

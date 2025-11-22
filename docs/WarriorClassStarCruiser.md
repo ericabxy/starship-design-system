@@ -1,21 +1,40 @@
 ---
 categories: shipdesign
+title: Warrior class STAR CRUISER
 ---
+
+Based on the famous [Earth Federation fighting ship](https://atarihq.com/5200/manuals/starraid.html), the _Warrior_ class is a fast, maneuverable strike cruiser. Its torpedo launchers can fire in tandem at the same target, or engage two targets at once. Shorter-range photon weapons serve as its defense against missiles and fighters.
 
 ### _Warrior_ class STAR CRUISER
 
-__Total Mass:__ 28
+__Hull Size:__ 30 (30 points)
 
-__Normal Space Drive:__ Twin-Ion Engine (thrust rating 8)
+__Hull Integrity:__ 15 (30 points)
 
-__Faster-than-light Drive:__ Dual Hyperwarp Engine (standard)
+_Mass available for additional systems:_ 15
 
-__Fire Control Systems:__ 2
+2 &times; Photon torpedo launcher 2-arc (10 mass, 30 points)
+![](assets/torpedo-system-ffp-two-arc.svg)
+![](assets/torpedo-system-ffs-two-arc.svg)
 
-_Mass available for additional systems:_ 14
+1 &times; Shield generator (3 mass, 25 points)
+![](assets/screen-generator.svg)
 
-2 &times; Photon torpedo launcher 2-arc (10 mass)
+2 &times; Point defense system (2 mass, 6 points)
+![](assets/point-defense-system.svg)
+![](assets/point-defense-system.svg)
 
-1 &times; Shield generator (3 mass)
+2 &times; Fire control system (20 points)
+![](assets/fire-control-system.svg)
+![](assets/fire-control-system.svg)
 
-2 &times; Point defense system (1 mass)
+15 &times; Hull integrity (30 points)
+![](assets/hull-box.svg)
+
+1 &times; Dual hyperwarp engine (30 points)
+![](assets/faster-than-light-drive.svg)
+
+1 &times; Twin-ion engine (180 points)
+![](assets/normal-space-drive-thrust-6.svg)
+
+__Total Point Value:__ 381

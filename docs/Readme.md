@@ -25,3 +25,5 @@ The following links have been useful during the development of this design syste
 * [Star Trek Designs (archived)](https://web.archive.org/web/20241107232538/http://homegame.org/siefert/uftwwwp/files/st-ft.htm)
 * [WarpWar Rules](http://www.contrib.andrew.cmu.edu/usr/gc00/reviews/warpwar.html)
 * [Weapons & Defences Archive](https://nift.firedrake.org/Weap-Def_Archive.htm)
+
+{% include ship-systems.html %}
