@@ -12,7 +12,7 @@ Torpedo System
 The torpedo system launches a payload which, if it hits, can deal massive damage to the target. The basic version is fitted to fire through the FWD arc, but for extra cost it can be fitted to fire through up to 180° of arc.
 
 Symbols:
-![Narrow rectangle with a filled half pointing to 12 o'clock.](/assets/torpedo-system.svg)
+![Narrow half-filled rectangle pointing to 12 o'clock.](/assets/torpedo-system.svg)
 ![Narrow half-filled rectangle with a widened base enclosing letter L.](/assets/torpedo-system-long-range.svg)
 ![Narrow half-filled rectangle with a widened base enclosing letter S.](/assets/torpedo-system-short-range.svg)
 
@@ -20,18 +20,19 @@ Symbols:
 
 Targeting with a torpedo system requires one [FireCon](FireControlSystem), which may ONLY be used to fire other torpedo systems at the SAME target this turn. To determine whether the weapon hits, __one__ six-sided die is rolled per system firing at the same target.
 
-| At range of:
-| __0-6″__   | Required score to hit: | __2__ to __6__
-| __6-12″__  | Required score to hit: | __3__ to __6__
-| __12-18″__ | Required score to hit: | __4__ to __6__
-| __18-24″__ | Required score to hit: | __5__ or __6__
-| __24-30″__ | Required score to hit: | __6__ only
+| At range of... | Required score to hit
+| -------------- | ----------------------
+| __0-6″__       |  __2__ to __6__
+| __6-12″__      |  __3__ to __6__
+| __12-18″__     |  __4__ to __6__
+| __18-24″__     |  __5__ or __6__
+| __24-30″__     |  __6__ only
 
 Each hit deals damage points equal to the score of a __second D6__. [Defensive screens](ScreenGenerator) have no effect against this damage.
 
 ### Table: Torpedo System Costs
 
-|             | Mass | Cost
+| Class       | Mass | Cost
 | ----------- | :--: | ----
 | Short-range | 2    | 6 points
 | Standard    | 4    | 12 points
@@ -60,22 +61,22 @@ Symbols:
 _Experimental:_ 2-arc torpedo systems may be fitted to fire through a forward 120° arc, which must be noted clearly on the ship diagram:
 ![Narrow half-filled rectangle branching to point 11 and 1 o'clock.](/assets/torpedo-system-fwd-two-arc.svg)
 
-
 ### Long-range Torpedoes
 
 Torpedo systems come in a long-range version for ships with the mass to spare to mount them.
 
 Symbols:
-![](/assets/torpedo-system-long-range.svg)
+![Narrow half-filled rectangle with a widened base enclosing letter L.](/assets/torpedo-system-long-range.svg)
 
 #### Table: Long-range chance to hit
 
-| At range of:
-| __0-9″__   | Required score to hit: | __2__ to __6__
-| __9-18″__  | Required score to hit: | __3__ to __6__
-| __18-27″__ | Required score to hit: | __4__ to __6__
-| __27-36″__ | Required score to hit: | __5__ or __6__
-| __36-45″__ | Required score to hit: | __6__ only
+| At range of... | Required score to hit
+| -------------- | ---------------------
+| __0-9″__       |  __2__ to __6__
+| __9-18″__      |  __3__ to __6__
+| __18-27″__     |  __4__ to __6__
+| __27-36″__     |  __5__ or __6__
+| __36-45″__     |  __6__ only
 
 #### Table: Long-range Torpedo System Costs
 
@@ -90,16 +91,17 @@ Symbols:
 Torpedo systems are available in a short-range variety for reduced mass and points costs.
 
 Short-range torpedo system symbols:
-![](/assets/torpedo-system-short-range.svg)
+![Narrow half-filled rectangle with a widened base enclosing letter S.](/assets/torpedo-system-short-range.svg)
 
 #### Table: Short-range chance to hit
 
-| At range of:
-| __0-4″__   | Required score to hit: | __2__ to __6__
-| __4-8″__   | Required score to hit: | __3__ to __6__
-| __8-12″__  | Required score to hit: | __4__ to __6__
-| __12-16″__ | Required score to hit: | __5__ or __6__
-| __16-20″__ | Required score to hit: | __6__ only
+| At range of... | Required score to hit
+| -------------- | ---------------------
+| __0-4″__       |  __2__ to __6__
+| __4-8″__       |  __3__ to __6__
+| __8-12″__      |  __4__ to __6__
+| __12-16″__     |  __5__ or __6__
+| __16-20″__     |  __6__ only
 
 #### Table: Long-range Torpedo System Costs
 

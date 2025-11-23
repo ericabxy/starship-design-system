@@ -23,18 +23,20 @@ Rolling To Hit
 
 To determine the effect of firing on a target, a number of dice are rolled depending on range. Class-3 batteries have a maximum range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
-|              | **0-12″**    | **12-24″**   | **24-36″**   | **36-48″**
-| ------------ | :-------:    | :--------:   | :--------:   | :--------:
-| **Class-1**  | **ONE** D6   | ---          | ---          | ---
-| **Class-2**  | **TWO** D6   | **ONE** D6   | ---          | ---
-| **Class-3**  | **THREE** D6 | **TWO** D6   | **ONE** D6   | ---
-| **Class-4**  | **FOUR** D6  | **THREE** D6 | **TWO** D6   | **ONE** D6
+| Battery | 0-12″        | 12-24″       | 24-36″       | 36-48″
+| ------- | :----------: | :----------: | :----------: | :----:
+| Class-1 | **ONE** D6   | ---          | ---          | ---
+| Class-2 | **TWO** D6   | **ONE** D6   | ---          | ---
+| Class-3 | **THREE** D6 | **TWO** D6   | **ONE** D6   | ---
+| Class-4 | **FOUR** D6  | **THREE** D6 | **TWO** D6   | **ONE** D6
 
 Unscreened Damage
 -----------------
 
 Damage is dealt according to the results of the dice. The target ship must cross off a number of <span class='hull-boxes'>j</span>hull boxes according to the total damage points generated as detailed in this table.
 
+| Per six-sided die                   | Result
+| ----------------------------------- | ------
 | Every **1**, **2**, or **3** rolled | No effect
 | Every **4** or **5** rolled         | **One** damage point
 | Every **6** rolled                  | **Two** damage points
@@ -42,10 +44,12 @@ Damage is dealt according to the results of the dice. The target ship must cross
 Damage Protected by Screens
 ---------------------------
 
-Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
+Defensive [screens](ScreenGenerator) reduce the damage from main batteries.
 
-| **Level-1 Screens** | Rolls of **4** have no effect
-| **Level-2 Screens** | Rolls of **6** inflict only **one point** of damage
+| For a ship with at least...  | Per incoming main battery die
+| ---------------------------- | -----------------------------
+| **Level-1 Screens**          | Rolls of **4** have no effect
+| **Level-2 Screens**          | Rolls of **6** inflict only **one point** of damage
 
 Class-1 Point Defense Mode
 --------------------------

@@ -16,15 +16,15 @@ Symbols:
 
 Firing submunitions generates damage by rolling a number of dice depending on range to target.
 
-| At range of...
-| ---------- | ---
-| **0-6″**   | Roll **three** D6
-| **6-12″**  | Roll **two** D6
-| **12-18″** | Roll **one** D6
+| At range of... | You...
+| -------------- | ---
+| **0-6″**       | Roll **three** D6.
+| **6-12″**      | Roll **two** D6.
+| **12-18″**     | Roll **one** D6.
 
 Damage is determined similarly to beam batteries, but submutions are _unaffected_ by [defensive screens](ScreenGenerator).
 
-| Results                             | Damage
+| Per six-sided die                   | Result
 | ----------------------------------- | ------
 | Every **1**, **2**, or **3** rolled | No effect
 | Every **4** or **5** rolled         | **One** damage point

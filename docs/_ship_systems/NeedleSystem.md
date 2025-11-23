@@ -20,7 +20,7 @@ Range and Rolling To Hit
 
 The maximum range is __12&Prime;__. Designate a single system on the target ship and roll __one D6__ per needle firing.
 
-| On a score of...
+| On a score of... | Result
 | :-:
 | 6   | Target system knocked-out and one damage point applied to HULL
 | 5   | One damage point applied to HULL
@@ -35,18 +35,18 @@ Multi-arc Needle System (experimental)
 
 At extra mass and cost a needle system can be fitted to fire through up to 180 degrees of arc.
 
-![Filled circle with two long lines pointing forward.](/assets/needle-system.svg)
+![Filled circle with three long lines pointing 10, 12, and 2 o'clock.](/assets/needle-system-3-arc.svg)
 
 Heavy Needle System (experimental)
 -------------------
 
-![Filled circle with three long lines pointing 10, 12, and 2 o'clock.](/assets/needle-system.svg)
+![Filled circle with two long lines pointing forward.](/assets/needle-system-heavy.svg)
 
 Design Procedure
 ----------------
 
-|                | Bearing           | Mass | Cost
-| ---            | :-----:           | :--: | ----
+| Class          | Bearing           | Mass | Cost
+| -------------- | :-----:           | :--: | ----
 | _Standard_
 |                |  60&deg; (1 arc)  | 2    | 6 points
 |                | 120&deg; (2 arcs) | 3    | 9 points
@@ -63,7 +63,7 @@ An older version of the needle system was less effective.
 
 At a range of __9&Prime;__, nominate one system and roll __one D6:__
 
-| On a score of...
+| On a score of... | Result
 | :-:
 | 6   | Target system knocked-out
 | 1-5 | No effect

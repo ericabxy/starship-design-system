@@ -26,16 +26,17 @@ Symbols:
 Range and Rolling To Hit
 ------------------------
 
-| At range of:
-| __0-6″__   | Required score to hit: | __2__ to __6__
-| __6-12″__  | Required score to hit: | __3__ to __6__
-| __12-18″__ | Required score to hit: | __4__ to __6__
-| __18-24″__ | Required score to hit: | __5__ or __6__
-| __24-30″__ | Required score to hit: | __6__ only
+| At range of... | Required score to hit
+| -------------- | ---------------------
+| 0-6″           |  __2__ to __6__
+| 6-12″          |  __3__ to __6__
+| 12-18″         |  __4__ to __6__
+| 18-24″         |  __5__ or __6__
+| 24-30″         |  __6__ only
 
 For each railgun projectile that hits, damage is dealt equal to the class of the railgun. However there is a chance it will deal _double_ the damage instead. Roll another six-sided die to determine the result.
 
-__Railgun damage:__
+### Table: Railgun Damage
 
 | Railgun Class  | 1-3 Rolled   | 4-6 Rolled
 | :------------: | ------------ | ----------
@@ -51,7 +52,7 @@ Advanced Screens
 
 While standard defensive screens do not affect railgun hits or damage in any way, [advanced screens](AdvancedScreen#against-railguns) are able to reduce the chance of taking double damage.
 
-__Railgun damage against advanced screens:__
+### Table: Railgun damage against advanced screens
 
 | Screen Level 1 | 1-4 Rolled   | 5-6 Rolled
 | Screen Level 2 | 1-5 Rolled   | 6 Rolled
