@@ -6,4 +6,4 @@ layout: default
   {{ content }}
 </main>
 
-{% include ship-design-navbox.html %}
+{% include ship-design-navbox.md %}
